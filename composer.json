@@ -1,0 +1,21 @@
+{
+    "name": "alladas/yii2-news-sticker",
+    "description": "jQuery and Bootstrap 3 based plugin for creating a clean responsive news ticker/slider",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","news box","news sticker"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Allada",
+            "email": "ai@allada-software.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "alladas\\yii2newssticker\\": ""
+        }
+    }
+}
