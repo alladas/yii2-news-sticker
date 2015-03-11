@@ -8,7 +8,7 @@ use yii\web\AssetBundle;
 /**
  * Asset bundle for News Sticker
  */
-class NewsStickerAsset extends AssetBundle;
+class NewsStickerAsset extends AssetBundle
 {
     public $sourcePath = '@vendor/alladas/yii2-news-sticker';
 	
