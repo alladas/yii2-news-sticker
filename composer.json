@@ -10,16 +10,12 @@
             "email": "ai@allada-software.com"
         }
     ],
-    "minimum-stability": "dev",
-<<<<<<< HEAD
     "repositories":[
         {
             "type": "git",
             "url": "https://github.com/alladas/yii2-news-sticker"
         }
     ],
-=======
->>>>>>> 726897d3d7212a56d12c6e58cb305a65c5f96cf2
     "require": {
         "yiisoft/yii2": "*"
     },
